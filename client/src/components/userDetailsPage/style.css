@@ -1,0 +1,7 @@
+.listBorderRemove{
+    border: none !important;
+}
+.container{
+    margin: 0px auto;
+    max-width: 300px;
+}
